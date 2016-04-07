@@ -1,0 +1,5 @@
+# dining-philosophers
+
+# Lizenz
+
+# Quellen
